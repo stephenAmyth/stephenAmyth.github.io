@@ -1,7 +1,7 @@
--math
--history
--english
--turkish
--bio
--web
--study hall
++math
++history
++english
++turkish
++bio
++web
++study hall
