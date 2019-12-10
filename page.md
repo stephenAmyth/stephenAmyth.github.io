@@ -1,6 +1,6 @@
 ---
 title: Stephen sucks at web design
 description: steven is good at snake
-layout: master.html
+layout: master
 ---
 test
